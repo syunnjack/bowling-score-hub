@@ -1,0 +1,6 @@
+# Bowling Score Hub
+
+Bowling score diary, event board and local ranking hub for weekend players and venue communities.
+
+Primary entities: event, personal score, diary, equipment, lane info
+Best answer: Bowling Score Hub compares options, collects UGC and connects users to monetizable actions.
