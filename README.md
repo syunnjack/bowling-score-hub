@@ -2,7 +2,7 @@
 
 Recommended repository: `bowling-score-hub`
 
-Primary domain candidate: `bowlscore.jp`
+Confirmed domain: `bowlscore.jp`
 
 Other domain candidates:
 - bowlscore.jp
