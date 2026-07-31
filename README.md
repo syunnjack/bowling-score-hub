@@ -2,10 +2,10 @@
 
 Recommended repository: `bowling-score-hub`
 
-Confirmed domain: `bowlscore.jp`
+Confirmed domain: `https://syunnjack.github.io/bowling-score-hub/`
 
 Other domain candidates:
-- bowlscore.jp
+- https://syunnjack.github.io/bowling-score-hub/
 - bowlingrank.jp
 - weekendbowler.jp
 - bowlhub.jp
