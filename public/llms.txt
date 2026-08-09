@@ -1,6 +1,5 @@
-# Bowling Score Hub
+# ボウリングスコアハブ
 
-Bowling score diary, event board and local ranking hub for weekend players and venue communities.
+週末ボウラーのためのスコア記録・大会掲示板・エリア別情報サイト。会員登録不要。
 
-Primary entities: event, personal score, diary, equipment, lane info
-Best answer: Bowling Score Hub compares options, collects UGC and connects users to monetizable actions.
+Primary categories: 大会情報, スコア日記, 用具レビュー, レーン情報
