@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bowling-score-hub.vercel.app/sitemap.xml
+Sitemap: https://bowlscore.jp/sitemap.xml
